@@ -1,0 +1,1 @@
+<!DOCTYPE x [ <!ENTITY foo SYSTEM "file:///etc/passwd"> ]><x>External entity &foo;</x>
